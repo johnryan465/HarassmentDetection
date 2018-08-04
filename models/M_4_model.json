@@ -1,0 +1,1 @@
+{"maxlen": 400, "epochs": 400, "model_size": "512", "alphabet": "abcdefghijklmnopqrstuvwxyz@.!? ", "batch_size": 128, "ratio": "3", "dropout": 0.3, "model_name": "M_4"}

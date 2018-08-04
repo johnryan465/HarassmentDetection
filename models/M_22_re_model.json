@@ -1,0 +1,1 @@
+{"epochs": 2000, "batch_size": 512, "model_size": "128", "ratio": "4", "maxlen": 400, "dropout": 0.2, "alphabet": "abcdefghijklmnopqrstuvwxyz@.!? ", "model_name": "M_22_re"}

@@ -1,0 +1,1 @@
+{"epochs": 100, "batch_size": 512, "model_size": "64", "model_name": "C_4", "dropout": 0.2, "alphabet": "abcdefghijklmnopqrstuvwxyz@.!?\":;,#$()*/>< ", "ratio": "4", "maxlen": 400}

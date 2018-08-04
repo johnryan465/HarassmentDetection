@@ -1,0 +1,1 @@
+{"model_name": "C_9", "model_size": "64", "epochs": 500, "ratio": "4", "batch_size": 2048, "dropout": 0.2, "alphabet": "abcdefghijklmnopqrstuvwxyz@.!?\":;,#$()*/>< ", "maxlen": 400}

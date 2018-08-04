@@ -1,0 +1,1 @@
+{"model_size": "256", "epochs": 1000, "alphabet": "abcdefghijklmnopqrstuvwxyz@.!? ", "dropout": 0.2, "ratio": "4", "model_name": "M_14", "batch_size": 512, "maxlen": 400}

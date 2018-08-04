@@ -1,0 +1,1 @@
+{"dropout": 0.3, "alphabet": "abcdefghijklmnopqrstuvwxyz@.!? ", "maxlen": 400, "ratio": "1.5", "epochs": 100, "model_size": "128", "batch_size": 1024, "model_name": "M_5"}

@@ -1,0 +1,1 @@
+{"batch_size": 512, "dropout": 0.2, "model_size": "128", "ratio": "1", "model_name": "D_2_2", "epochs": 100, "maxlen": 400, "alphabet": "abcdefghijklmnopqrstuvwxyz@.!?\":;,#$()*/>< "}

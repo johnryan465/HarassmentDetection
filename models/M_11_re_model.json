@@ -1,0 +1,1 @@
+{"model_name": "M_11_re", "model_size": "256", "epochs": 200, "maxlen": 400, "alphabet": "abcdefghijklmnopqrstuvwxyz@.!? ", "ratio": "4", "dropout": 0.2, "batch_size": 512}

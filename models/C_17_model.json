@@ -1,0 +1,1 @@
+{"alphabet": "abcdefghijklmnopqrstuvwxyz@.!?\":;,#$()*/>< ", "model_name": "C_17", "maxlen": 400, "batch_size": 2048, "dropout": 0.2, "ratio": "4", "model_size": "128", "epochs": 2000}

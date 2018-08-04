@@ -1,0 +1,1 @@
+{"model_name": "C_6", "maxlen": 400, "batch_size": 512, "model_size": "256", "dropout": 0.2, "alphabet": "abcdefghijklmnopqrstuvwxyz@.!?\":;,#$()*/>< ", "epochs": 100, "ratio": "4"}

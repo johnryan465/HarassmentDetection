@@ -1,0 +1,1 @@
+{"alphabet": "abcdefghijklmnopqrstuvwxyz@.!?\":;,#$()*/>< ", "model_size": "16", "ratio": "4", "maxlen": 400, "epochs": 500, "model_name": "C_11_re", "batch_size": 2048, "dropout": 0.2}
